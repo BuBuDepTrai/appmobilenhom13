@@ -26,11 +26,4 @@
 From your Flutter project directory, run the following command to start the app configuration workflow:flutterfire configure</li>
 <li>From your Flutter project directory, run the following command to install the core plugin:flutter pub add firebase_core</li>
 <li>From your Flutter project directory, run the following command to ensure that your Flutter app's Firebase configuration is up-to-date:flutterfire configure</li>
-<li>Run flutter pub get to get all dependencies</li>
-</ol>
-<img src="Image.jpeg"/>
-<h1>Youtube Channel</h1>
-<a href="https://www.youtube.com/channel/UCGfU4kZ0QHYriCMLhBoC1aA">Youtube </a>
-<h2>You can support my work by buying me a coffee below</h2>
-<a href="https://www.buymeacoffee.com/isheunesu4q" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
