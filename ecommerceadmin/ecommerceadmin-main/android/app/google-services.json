@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "255923225135",
+    "project_id": "tuankietapp-4a0d6",
+    "storage_bucket": "tuankietapp-4a0d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255923225135:android:1b7e1bef8be9a0ea33bcda",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMaX3m8qiaB87GdkJBrYyOJQiVwu-OQJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255923225135:android:1862ad15e3445bde33bcda",
+        "android_client_info": {
+          "package_name": "com.example.tuankietapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMaX3m8qiaB87GdkJBrYyOJQiVwu-OQJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255923225135:android:e767e7b3aff7ec9733bcda",
+        "android_client_info": {
+          "package_name": "com.example.tuankietappadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMaX3m8qiaB87GdkJBrYyOJQiVwu-OQJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
